@@ -118,14 +118,14 @@ header nav ul li a {
     margin-bottom: 20px;
 }
 #step-1 {
-    background: url('images/steps-icon-1.png') no-repeat top center;
+    background: url('images/icon-1.png') no-repeat top center;
 }
 #step-2 {
-    background: url('images/steps-icon-2.png') no-repeat top center;
+    background: url('images/icon-2.png') no-repeat top center;
     
 }
 #step-3 {
-    background: url('images/steps-icon-3.png') no-repeat top center;
+    background: url('images/icon-3.png') no-repeat top center;
 }
 
 
@@ -178,7 +178,7 @@ article h4
 
 
 
-/ CONTACT */
+/* CONTACT */
 
 #contact
 {
